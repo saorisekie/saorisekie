@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @saorisekie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in yoga
+- 🌱 I’m currently learning pilates
 
-<!---
+
+
 saorisekie/saorisekie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saori sekie
-)](https://github.com/anuraghazra/github-readme-stats)
+
